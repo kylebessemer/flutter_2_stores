@@ -17,7 +17,7 @@ A Flutter demo project showcasing how to use multiple Provider stores (ChangeNot
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/flutter_2_stores.git
+git clone https://github.com/kylebessemer/flutter_2_stores.git
 cd flutter_2_stores
 flutter pub get
 ```
